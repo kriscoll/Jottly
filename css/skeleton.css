@@ -429,7 +429,7 @@ there.
   
   /* Header */
   body > header {
-    background: url('../images/Jottly-images/header.jpg') top center no-repeat;
+    background: url('../images/header.jpg') top center no-repeat;
     background-size: cover;
     min-height: 680px;
     width: 100%;
